@@ -7,7 +7,5 @@ This repository contains the raw text data divided per genres temporal period (e
 
 The data have been enriched with manual annotation and accompnaied by the development of NPL processing tools. Below we link the dedicated repositories for each task:
 
-- 
-
-- 
+- Content Types Identification: https://github.com/tommasoc80/ContentTypes
 
