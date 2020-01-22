@@ -1,0 +1,60 @@
+<s> <s> Hong Kong </s>
+<s> <s> Watches . </s>
+<s> <s> The saying “ Time is money ” is quite literally true in Hong Kong : more is spent on watches and clocks here than on cameras and optical goods . </s>
+<s> <s> An enormous variety of makes and models are on sale . </s>
+<s> <s> Be sure to get the manufacturer ’s guarantee stamped or signed if you buy a watch . </s>
+<s> <s> Entertainment Day and night , the action goes on in this vibrant city . </s>
+<s> <s> To help you choose a nightlife scene , pick up a copy of Hong Kong Tourist Authority ’s dining and entertainment guide for listings , or just simply wander through the maze of neon signs and take your pick . </s>
+<s> <s> Hong Kong Diary published weekly by HKTA tells what ’s happening in the arts . </s>
+<s> <s> Hong Kong Life is published by the Hong Kong Standard on Sunday , and the South China Morning Post has an entertainment section on Friday . </s>
+<s> <s> Culture buffs are well catered to , and there is always a varied program of events , ranging from world-class concerts to local amateur dramatic productions . </s>
+<s> <s> A highlight of the arts calendar is the annual Hong Kong Arts Festival , a three-week dose of international culture in February , with concerts , recitals , plays , jazz , Chinese opera , and innovative productions put on by leading talent from both East and West . </s>
+<s> <s> Tickets for the shows must be reserved well in advance . </s>
+<s> <s> The Festival of Asian Arts takes place every other October , bringing to Hong Kong for two weeks orchestras , dance groups , opera , and drama companies from all over Asia . </s>
+<s> <s> There are more than 30 cinemas in Hong Kong , and the latest Western releases are shown in some of the larger ones . </s>
+<s> <s> English-language films have Chinese subtitles . </s>
+<s> <s> Films with Mandarin dialogue also have Chinese subtitles , for the benefit of Cantonese speakers , and sometimes subtitles in English . </s>
+<s> <s> The Hong Kong International Film Festival takes place in April . </s>
+<s> <s> More than 200 films from all over the world are shown at this two-week event . </s>
+<s> <s> Ask at City Hall center about advance reservations . </s>
+<s> <s> The Performing Arts Performance Venues . </s>
+<s> <s> The theaters in the Hong Kong Cultural Center in Tsim Sha Tsui are the main venues for concerts and opera . </s>
+<s> <s> Other performance centers are the City Hall cultural complex , with exhibition halls and theaters that present concerts , plays , and films ; the Hong Kong Academy for the Performing Arts with two major theaters for dance , drama , and concert performances ; and the Hong Kong Arts Centre in Wan Chai , where both local and visiting groups perform . </s>
+<s> <s> Other centers for concerts , plays , and entertainment are Sha Tin Town Hall and Tsuen Wan Town Hall in the New Territories . </s>
+<s> <s> Larger arenas , including the Queen Elizabeth Stadium , the Hong Kong Coliseum , and the Ko Shan Theater in Kowloon play host to various concerts , pop concerts , sporting events , and variety shows . </s>
+<s> <s> Classical Music . </s>
+<s> <s> The Hong Kong Chinese Orchestra performs new and traditional works ; a wide assortment of traditional and Chinese instruments are featured . </s>
+<s> <s> The Hong Kong Philharmonic Orchestra was founded in 1975 . </s>
+<s> <s> Under its conductor , David Atherton , it offers Western classical works and new works by Chinese composers in a September-to-June season . </s>
+<s> <s> Chinese Opera . </s>
+<s> <s> Cantonese opera is alive and well in Hong Kong , and the two other forms , Beijing and Kun , are sometimes presented . </s>
+<s> <s> To most foreigners , this unique art form is likely to be inscrutable at first exposure , but everyone can appreciate the spectacle and the elaborate , glittering costumes . </s>
+<s> <s> Although the music may seem strange to the unaccustomed ear , it certainly wo n’t put you to sleep ; cymbals and drums guarantee your alertness . </s>
+<s> <s> Dance . </s>
+<s> <s> Hong Kong ’s three professional dance companies — the Hong Kong Ballet Company , the Hong Kong Dance Company , and the newer City Contemporary Dance Company — perform regularly , often at the Hong Kong Academy for the Performing Arts . </s>
+<s> <s> Theater . </s>
+<s> <s> The two leading local troupes , the Chung Ying Theatre Company and the Hong Kong Repertory Theatre , perform in Cantonese ; there are English-language performances at the Fringe Club theaters , 2 Lower Albert Road , in Central . </s>
+<s> <s> Puppet Shows . </s>
+<s> <s> The classic Chinese puppet is the shadow puppet , manipulated behind a screen by three rods , but hand puppet and marionette shows are also on offer , often for free at public parks and playgrounds . </s>
+<s> <s> Nightlife Hong Kong by night can suit any taste — riotous , sedate , raw , or cultured . </s>
+<s> <s> Note that sometimes there is a cover charge of HK$ 50 to HK$ 200 at clubs , which may or may not include a couple of drinks . </s>
+<s> <s> There are nightclubs in the principal hotels , with bands , dancing , and floor shows . </s>
+<s> <s> Many restaurants and bars have live music . </s>
+<s> <s> Jazz fans will find live jazz presented by international artists at the Jazz Club and Bar , 2/F , 34-36 D’Agular , Central ; and at the Blue Note in the Kowloon Shangri-La Hotel in Tsim Sha Tsui . </s>
+<s> <s> The Frin ge Club , 21 Lower Albert Road , Central , is Hong Kong ’s best-known alternate entertainment venue , with jazz , rock , and other live music , in addition to a gallery for visual arts . </s>
+<s> <s> Bars with views and live music include Sky Lounge in the Sheraton Hotel and Towers , Tsim Sha Tsui ; and Cyrano in the Island Shangri-La in Pacific Place . </s>
+<s> <s> Pubs are numerous . </s>
+<s> <s> In Tsim Sha Tsui , Ned Kelly ’s Last Stand on Ashley Road is an Aussie institution ; Delaney ’s , 71-77 Peking Road , is one of Hong Kong ’s enduring Irish pubs . </s>
+<s> <s> The clubs and bars of Wan Chai , long the center of seedy nightlife , have become almost respectable . </s>
+<s> <s> Joe Bananas , 23 Luard Road , is a Wan Chai mainstay for all-night partying . </s>
+<s> <s> Rick ’s Cafe , 78-82 Jaffe Road , is a long-time disco that ’s still popular . </s>
+<s> <s> A lot of the raunchy action has moved across the harbor to Tsim Sha Tsui East ; this is also where you ’ll find pricey hostess clubs , popular with Japanese tourists , but definitely not for those on a budget . </s>
+<s> <s> Today ’s trendy spot is Soho ( SOuth of HOllywood ) around Hollywood Road , Elgin , and Stauton streets . </s>
+<s> <s> Soho , along with the Lan Kwai Fong area , is popular with chuppies ( Hong Kong yuppies ) and has a lively bar scene . </s>
+<s> <s> Causeway Bay also has a variety of bars and clubs . </s>
+<s> <s> TOTT ’s , in the Excelsior Hotel , is a restaurant with live music and dancing and a harbor view . </s>
+<s> <s> Japanese karaoke bars have now become extremely popular with the locals . </s>
+<s> <s> There are a number of these on Chatham Road South and around Cameron Street in Tsim Sha Tsui . </s>
+<s> <s> Nightlife tours are offered by a number of companies . </s>
+<s> <s> The most typical of these are harbor cruises , usually including dinner and dancing on board an air-conditioned floating nightclub . </s>
+<s> <s> There are evening bus tours that include visits to a restaurant and night spots ; some tours combine a Chinese banquet with a visit to an open-air market and the panorama from Victoria Peak . </s>

@@ -1,0 +1,17 @@
+<s> <s> The flu season is winding down , and it has killed 105 children so far - about the average toll . </s>
+<s> <s> The season started about a month earlier than usual , sparking concerns it might turn into the worst in a decade . </s>
+<s> <s> It ended up being very hard on the elderly , but was moderately severe overall , according to the Centers for Disease Control and Prevention . </s>
+<s> <s> Six of the pediatric deaths were reported in the last week , and it 's possible there will be more , said the CDC 's Dr. Michael Jhung said Friday . </s>
+<s> <s> Roughly 100 children die in an average flu season . </s>
+<s> <s> One exception was the swine flu pandemic of 2009 - 2010 , when 348 children died . </s>
+<s> <s> The CDC recommends that all children ages 6 months and older be vaccinated against flu each season , though only about half get a flu shot or nasal spray . </s>
+<s> <s> All but four of the children who died were old enough to be vaccinated , but 90 percent of them did not get vaccinated , CDC officials said . </s>
+<s> <s> This year 's vaccine was considered effective in children , though it did n't work very well in older people . </s>
+<s> <s> And the dominant flu strain early in the season was one that tends to cause more severe illness . </s>
+<s> <s> The government only does a national flu death count for children . </s>
+<s> <s> But it does track hospitalization rates for people 65 and older , and those statistics have been grim . </s>
+<s> <s> In that group , 177 out of every 100,000 were hospitalized with flu-related illness in the past several months . </s>
+<s> <s> That 's more than 2 1/2 times higher than any other recent season . </s>
+<s> <s> This flu season started in early December , a month earlier than usual , and peaked by the end of year . </s>
+<s> <s> Since then , flu reports have been dropping off throughout the country . </s>
+<s> <s> `` We appear to be getting close to the end of flu season , '' Jhung said . </s>
