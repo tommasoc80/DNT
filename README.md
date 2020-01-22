@@ -9,3 +9,7 @@ The data have been enriched with manual annotation and accompnaied by the develo
 
 - Content Types Identification: https://github.com/tommasoc80/ContentTypes
 
+- Event Detection in Historical Texts: https://github.com/dhfbk/Histo
+
+- Named Entity Recognition in Historical Texts:  https://github.com/dhfbk/Detection-of-place-names-in-historical-travel-writings 
+
