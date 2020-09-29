@@ -7,13 +7,4 @@ This repository contains the raw text data divided per genre and temporal period
 
 The data have been enriched with manual annotation and accompanied by the development of NPL processing tools. We aim at making DNT a large multi-layer annotated corpus with different language phenomena. Feel free to contribute!
 
-Below we link the dedicated repositories for each task:
 
-- Content Types Identification: https://github.com/tommasoc80/ContentTypes
-
-- Event Detection in Historical Texts: https://github.com/dhfbk/Histo
-
-- Named Entity Recognition in Historical Texts:  https://github.com/dhfbk/Detection-of-place-names-in-historical-travel-writings 
-
-
-*COMING SOON*: pre-tokenized version of the data with offsets.
