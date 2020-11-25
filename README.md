@@ -15,7 +15,7 @@ Below we link the dedicated repositories for each task:
 
 - Named Entity Recognition in Historical Texts:  https://github.com/dhfbk/Detection-of-place-names-in-historical-travel-writings 
 
-DNT will be presented to the 10th AIUCD conference *DH for society: e-quality, participation, rights and values in the Digital Age.*[http://www.aiucd.it/convegno-aiucd-2021/]
+DNT will be presented to the 10th AIUCD conference [*DH for society: e-quality, participation, rights and values in the Digital Age.*](http://www.aiucd.it/convegno-aiucd-2021/)
 
 
 *COMING SOON*: pre-tokenized version of the data with offsets.
