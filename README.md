@@ -17,7 +17,20 @@ Below we link the dedicated repositories for each task:
 
 DNT will be presented to the 10th AIUCD conference [*DH for society: e-quality, participation, rights and values in the Digital Age.*](http://www.aiucd.it/convegno-aiucd-2021/)
 
+# References
+```
+@inproceedings{caselli_sprugnoli_dnt2021, 
+    title={{DNT: un Corpus Diacronico e Multigenere di Testi in Lingua Inglese}}, 
+    author={Tommaso Caselli, Rachele Sprugnoli}, 
+    booktitle={AIUCD2021 - Book of Abstracts, Quaderni di Umanistica Digitale.}, 
+    year={2021}
+} 
+``` 
 
 *COMING SOON*: pre-tokenized version of the data with offsets.
+
+<a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</a>.
+
+
 
 
