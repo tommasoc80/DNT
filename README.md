@@ -1,4 +1,6 @@
 # DNT
+[![DOI](https://zenodo.org/badge/235629947.svg)](https://zenodo.org/badge/latestdoi/235629947)
+
 Diachronic News and Travel (DNT) corpus.
 
 This corpus contains 279 documents, for a total of 183.517 tokens, distributed across three genres (news, travel reports, and travel guides) and two temporal periods (1862-1939 and 1998-2017).
